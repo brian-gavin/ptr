@@ -1,8 +1,9 @@
 package ptr_test
 
 import (
-	"ptr"
 	"testing"
+
+	"github.com/brian-gavin/ptr"
 )
 
 func TestTo(t *testing.T) {

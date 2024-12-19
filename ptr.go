@@ -8,7 +8,7 @@
 // The form of the danger is an emanation of energy.
 // The danger is unleashed only if you substantially disturb this place physically. This place is best shunned and left uninhabited.
 
-//go:generate go run ./gen -f gen.go
+//go:generate go run ./internal/gen -f gen.go
 //go:generate goimports -w gen.go
 
 // package ptr contains functions used for creating pointers to values inline.
